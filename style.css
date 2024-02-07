@@ -1,0 +1,28 @@
+span{
+    color: rgb(1, 35, 71);
+    background-color: aqua;
+}
+
+#box{
+    text-align:justify;
+    text-decoration: none ;
+    padding: 3%;
+    background-color: rgb(120, 239, 225);
+}
+
+.heading{
+    color: red;
+}
+
+#p1{
+    font-weight: bold;
+
+}
+
+#p2{
+    font-weight: bolder;
+}
+
+#p3{
+
+}
